@@ -13,7 +13,7 @@ int main() {
 
     int n;
     struct process p[20];
-
+    printf("enter no of process: ");
     scanf("%d", &n);
 
     // Input processes
